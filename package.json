@@ -1,0 +1,12 @@
+{
+  "name": "task-error-notify",
+  "version": "0.0.0",
+  "description": "Error notification task",
+  "main": "index.js",
+  "repository": "https://github.com/escaladesports/task-error-notify.git",
+  "author": "Kennedy Rose <krose@escaladesports.com> (https://escaladesports.com)",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^5.1.2"
+  }
+}
